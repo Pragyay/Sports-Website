@@ -1,0 +1,62 @@
+// const liveScores = [
+  //   {
+  //     id: 1,
+  //     teams: {
+  //       home: {
+  //         logo: {logo},
+  //         name: "Home Team 1",
+  //       },
+  //       away: {
+  //         logo: {logo},
+  //         name: "Away Team 1",
+  //       },
+  //     },
+  //     status: {
+  //       long: "Game Finished",
+  //     },
+  //     scores: {
+  //       home: { total: 116 },
+  //       away: { total: 97 },
+  //     },
+  //   },
+  //   {
+  //     id: 2,
+  //     teams: {
+  //       home: {
+  //         logo: {logo},
+  //         name: "Home Team 2",
+  //       },
+  //       away: {
+  //         logo: {logo},
+  //         name: "Away Team 2",
+  //       },
+  //     },
+  //     status: {
+  //       long: "Game In Progress",
+  //     },
+  //     scores: {
+  //       home: { total: 85 },
+  //       away: { total: 73 },
+  //     },
+  //   },
+  //   {
+  //     id: 3,
+  //     teams: {
+  //       home: {
+  //         logo: {logo},
+  //         name: "Home Team 3",
+  //       },
+  //       away: {
+  //         logo: {logo},
+  //         name: "Away Team 3",
+  //       },
+  //     },
+  //     status: {
+  //       long: "Game Scheduled",
+  //     },
+  //     scores: {
+  //       home: { total: 0 },
+  //       away: { total: 0 },
+  //     },
+  //   },
+  // ];
